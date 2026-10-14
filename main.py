@@ -26,3 +26,7 @@ else:
     print("Operación no válida")
 
     print("El resultado es:", dividir(num1, num2))
+
+
+
+    print(dividir)
